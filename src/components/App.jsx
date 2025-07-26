@@ -1,4 +1,3 @@
-import "./App.css";
 import Charters from "./Charters";
 import Comf from "./Comf";
 import Footer from "./Footer";
@@ -12,9 +11,9 @@ function App() {
       <Navbar />
       <Header />
       <Comf />
-      <Charters/>
-      <Member/>
-      <Footer/>
+      <Charters />
+      <Member />
+      <Footer />
     </div>
   );
 }
